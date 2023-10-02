@@ -1,0 +1,1 @@
+# maven-failsafe-plugin-bug-report
